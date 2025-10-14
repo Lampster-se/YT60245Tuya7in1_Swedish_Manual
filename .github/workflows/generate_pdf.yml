@@ -3,7 +3,7 @@ name: Generate Swedish PDF
 on:
   push:
     branches:
-      - main  # kör bara en gång när du pushar
+      - main
 
 jobs:
   build:
@@ -23,7 +23,7 @@ jobs:
         python create_swedish_manual.py "YT60245_Manual_Original.pdf" "YT60245_Manual_Svensk.pdf" "swedish_text.txt"
 
     - name: Upload PDF
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: Swedish_Manual
         path: YT60245_Manual_Svensk.pdf
