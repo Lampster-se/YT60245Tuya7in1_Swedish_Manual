@@ -1,0 +1,29 @@
+name: Generate Swedish PDF
+
+on:
+  push:
+    branches:
+      - main  # kör bara en gång när du pushar
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+
+    - name: Install Python dependencies
+      run: |
+        pip install --upgrade pip
+        pip install pymupdf reportlab
+
+    - name: Generate PDF
+      run: |
+        python create_swedish_manual.py "YT60245_Manual_Original.pdf" "YT60245_Manual_Svensk.pdf" "swedish_text.txt"
+
+    - name: Upload PDF
+      uses: actions/upload-artifact@v3
+      with:
+        name: Swedish_Manual
+        path: YT60245_Manual_Svensk.pdf
