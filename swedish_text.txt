@@ -1,0 +1,199 @@
+ANVÄNDARMANUAL
+TRÅDLÖS VÄDERSTATION
+Modell: YT60245 +R53
+
+SÄKERHETSFÖRESKRIFTER
+- Produkten är inte en leksak. Förvara utom räckhåll för barn.
+- Endast för hemmabruk som väderindikator – inte för medicinskt eller offentligt bruk.
+- Rengör inte med slipande eller frätande material.
+- Placera inte nära öppen låga eller värmekälla. Risk för brand, elchock, skada eller personskada.
+- Använd endast nya batterier. Blanda inte nya och gamla.
+- Montera eller modifiera inte produkten.
+- Använd endast tillbehör godkända av tillverkaren.
+- Sänk inte ner i vatten. Torka med en mjuk trasa vid spill.
+- Undvik kraftiga stötar, damm, extrem temperatur eller fukt.
+- Täck inte ventilationsöppningar.
+- Displayenheten är avsedd för inomhusbruk.
+- Monteras endast på höjd under 2 meter.
+- Ingrepp i elektroniken upphäver garantin.
+- Batterier ingår inte. Följ + och – när du sätter i dem.
+- Blanda inte standard-, alkaliska och uppladdningsbara batterier.
+- Utsätt inte batterier för extrem värme eller lågt lufttryck – kan orsaka explosion eller läckage.
+
+TIPS FÖR SENSORPLACERING
+- Regnmätaren bör rengöras var tredje månad.
+- Installera sensorn minst 1,5 m från byggnader eller hinder.
+- Välj en plats med fri sikt och direkt solljus.
+- Max 150 m från displayenheten för stabil signal.
+- Undvik störningskällor som använder samma frekvens – håll minst 1–2 m avstånd.
+
+FÖRPACKNINGENS INNEHÅLL
+1. Displayenhet
+2. Strömadapter
+3. Trådlös 7-i-1 utomhussensor
+4. Tratt
+5. Vindriktning (med 1 skruv)
+6. Vindhastighetsskålar (med 1 skruv)
+7. Monteringsstång (4 skruvar)
+8. Monteringsfästen (6 skruvar)
+9. Gummipads (2 st)
+10. Skruvmejsel
+11. Manual
+
+INSTALLATION AV DEN TRÅDLÖSA 7-I-1 UTOMHUSSENSORN
+
+Monteringsstång och fäste:
+- Fäst sensorn på monteringsstången och fästet (medföljande) med skruvarna som ingår.
+
+Montering av vindhastighetsskålar och vindriktning:
+- Rikta skruvhålen på vindhastighetsskålarna mot den plana sidan av metallpinnen.
+- För in skålarna och skruva fast dem ordentligt.
+- Gör samma sak med vindriktningen.
+
+Montering av batterier:
+- Skjut reglaget för att öppna batterifacket under solpanelen.
+- Sätt i tre AA-batterier (ingår ej) enligt polariteten.
+- Stäng och lås batterifacket.
+
+Montering av regnmätare:
+- Rikta in skårorna på tratten med spåren i regnmätaren.
+- Skruva fast tratten i regnmätaren.
+
+Montering av sensorn:
+- Välj en plats utan hinder, t.ex. fält eller tak.
+- Fäst monteringsfästet i en yta eller befintlig stång med medföljande skruvar.
+- Lägg till gummipads mellan sensor och fäste för stabilitet.
+- Regnmätaren ska peka norrut och solpanelen söderut.
+- Se till att sensorn sitter fast ordentligt – annars kan felaktig nederbörd uppmätas i blåst.
+
+Justera nivå:
+- Använd det inbyggda vattenpasset för att justera horisontellt.
+- Lossa skruvarna, justera tills bubblan är i mitten och dra åt.
+
+Rikta söderut (valfritt):
+- För södra halvklotet kan regnmätaren peka söderut.
+- Detta maximerar solinstrålning till solpanelen under vintern.
+- Välj "STH" som hemisfär i klockinställningen.
+
+INSTALLATION AV DISPLAYENHETEN
+
+Strömförsörjning:
+- Anslut adaptern till uttaget på baksidan.
+- Sätt i 3 AAA-batterier som backup (ingår ej).
+- Displayen startar och går automatiskt in i parningsläge.
+
+Para med sensorn:
+- När displayen startar söker den automatiskt efter sensorer.
+- Antennsymbol blinkar vid sökning.
+- När parning lyckas visas data för temperatur, vind, UV, ljus och regn.
+
+Om ingen anslutning sker:
+- Håll in 【CHANNEL】 i över 2 sekunder för att gå in i parningsläge igen.
+
+Wi-Fi-inställning:
+- Ladda ner appen "Smart Life".
+- Logga in och aktivera Bluetooth och Wi-Fi på din telefon.
+- Håll in 【BARO/-/Wi-Fi】 i över 3 sekunder tills "AP" visas på displayen.
+- I appen: tryck på “+” > välj enhet > följ instruktioner för att ansluta.
+- Endast 2.4 GHz Wi-Fi stöds (inte 5 GHz).
+- När Wi-Fi-anslutningen lyckas visas Wi-Fi-symbolen konstant.
+- När tiden synkats via internet visas "SYNC".
+
+INSTÄLLNING AV KLOCKA OCH FUNKTIONER
+
+Tryck och håll in 【SET】 i 2 sekunder för att gå in i inställningsläget. 
+Använd 【WIND/+】 och 【BARO/-/】 för att ändra värden.
+Tryck på 【SET】 för att bekräfta varje steg.
+
+Inställningsordning:
+1. Ljudsignal på/av (Beep)
+2. NTP-tidssynkronisering på/av
+3. Veckodagsspråk (8 alternativ)
+4. Tidszon (GMT ± 12)
+5. Sommartid (DST) på/av
+6. Datumformat (D-M eller M-D)
+7. År, månad, dag
+8. 12/24-timmarsformat
+9. Timme, minut
+10. Temperatur (°C/°F)
+11. Tryckenhet (hPa, inHg, mmHg)
+12. Relativ tryckkalibrering
+13. Ljusenhet (Klux, fc, W/m²)
+14. Regnenhet (mm eller in)
+15. Vindhastighet (m/s, km/h, mph, knop)
+16. Halvklot: NTH = norra, STH = södra
+
+MÅNFASER
+Månfasen beräknas automatiskt utifrån tid och datum. Ikonen ändras korrekt efter norra/södra halvklotet.
+
+STÄLLA IN VÄCKARKLOCKA
+- Tryck 【TEMP/ALARM】 för att visa alarmtid.
+- Håll 【SET】 i 2 sek för att ställa in alarm.
+- Använd 【WIND/+】 och 【BARO/-/】 för att ställa in timme och minut.
+- Tryck 【SET】 för att spara.
+- Snooze: Tryck 【LIGHT/SNOOZE】 vid alarm – ljudet pausas i 5 min.
+
+TEMPERATUR- OCH FUKTIGHETSTREND
+- Pil visar stigande, stabil eller sjunkande trend under senaste timmen.
+
+BAROMETERVISNING
+- Tryck 【BARO/-/】 för att växla mellan absolut och relativt tryck.
+- Trendpilar visar om trycket ökar, är stabilt eller minskar.
+- Komfortikoner visar kallt, bekvämt eller varmt inomhusklimat.
+
+MAX/MIN-VÄRDEN
+- Tryck på 【MAX/MIN】 för att visa max- och minvärden.
+- 【TEMP/】 växlar: temp → känns som → vindkyla → värmeindex → daggpunkt.
+- 【WIND/+】 växlar: medelvind/byvind.
+- 【RAIN】 växlar: regntakt → dag → vecka → månad → totalt.
+- 【BARO/-/】 växlar: absolut/relativt tryck.
+- 【CHANNEL】 växlar: inomhus, CH2, CH3 osv.
+- Håll in 【MAX/MIN】 i 2 sek för att radera värden.
+
+LARM (HI/LO)
+- Tryck 【ALERT】 för att växla mellan hög/låg gräns.
+- Håll 【ALERT】 i 2 sek för att ändra värde.
+- 【WIND/+】 / 【BARO/-】 ändrar, 【TEMP/】 aktiverar/inaktiverar.
+- Tryck 【ALERT】 för nästa parameter.
+- Larmikon visas när aktivt, tystas med 【LIGHT/SNOOZE】.
+
+BAKGRUNDSBELYSNING
+- Med nätadapter: konstant, 3 nivåer (tryck 【LIGHT/SNOOZE】).
+- Utan adapter: lyser 15 sek efter knapptryckning.
+
+BATTERIVARNING
+- Batteriikon visas för låg nivå. Byt alla samtidigt.
+
+APP – SMART LIFE
+- Visa live-data, historik, grafer och väderprognos.
+- Justera enheter, alarm, ljusnivåer.
+- Synk via Wi-Fi 2.4 GHz (endast).
+
+FELSÖKNING
+Problem: Ingen kontakt mellan sensor och display
+Lösning:
+- Kontrollera att LED blinkar var 20:e sek.
+- Tryck RESET i 3 sek.
+- Ta ur batterier, vänta 5 min, sätt tillbaka.
+- Håll max 3 m avstånd vid ny parning.
+
+Problem: Temperaturskillnad
+- Låt stabilisera i 1 h, undvik vägg/sol.
+- Kalibrera i app vid behov.
+
+Problem: Regn registreras i torrt väder
+- Kontrollera att sensorn är vågrät (vattenpass).
+- Se till att stolpen står stadigt.
+
+SPECIFIKATIONER
+Temperatur ute: −40 – +70 °C
+Temperatur inne: −9.9 – +50 °C
+Luftfuktighet: 1–99 %
+Tryck: 600–1100 hPa
+Vind: 0–50 m/s
+Regn: upp till 12999 mm
+UV: 0–16 index
+Ljus: upp till 200 Klux
+Wi-Fi: 2.4 GHz (b/g/n)
+Sensor-räckvidd: ca 100 m
+Uppdateringsintervall: 20 sek
