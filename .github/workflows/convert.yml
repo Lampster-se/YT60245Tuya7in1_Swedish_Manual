@@ -1,0 +1,41 @@
+name: Convert Manual to Swedish PDF
+
+on:
+  workflow_dispatch:        # startas manuellt från Actions-fliken
+  push:
+    branches:
+      - main
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          lfs: true          # använd Git LFS om PDF-filerna är stora
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run conversion script
+        run: |
+          mkdir -p output
+          python scripts/convert_manual.py \
+            --input input/original_manual.pdf \
+            --swedish-file input/svensk_text.txt \
+            --output output/YT60245_Manual_Svensk_Final_from_github.pdf
+
+      - name: Upload output artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: converted-pdf
+          path: output/YT60245_Manual_Svensk_Final_from_github.pdf
